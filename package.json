@@ -1,6 +1,6 @@
 {
   "name": "weight-on-mars",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Returns the weight of a person on the planer Mars",
   "main": "index.js",
   "scripts": {

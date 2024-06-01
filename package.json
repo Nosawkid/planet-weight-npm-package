@@ -1,0 +1,23 @@
+{
+  "name": "weight-on-mars",
+  "version": "1.0.1",
+  "description": "Returns the weight of a person on the planer Mars",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nosawkid/planet-weight-npm-package.git"
+  },
+  "keywords": [
+    "Weight",
+    "Mars"
+  ],
+  "author": "Yaseen Sidhik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nosawkid/planet-weight-npm-package/issues"
+  },
+  "homepage": "https://github.com/Nosawkid/planet-weight-npm-package#readme"
+}
